@@ -1,4 +1,4 @@
-package studio1;
+	package studio1;
 
 import java.util.Scanner;
 
